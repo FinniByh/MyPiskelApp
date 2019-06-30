@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1de775e3fc83731912aae2fd604823c4",
+    "revision": "df98c35fc90d41891966b06ba3776a18",
     "url": "/MyPiskelApp/index.html"
   },
   {
