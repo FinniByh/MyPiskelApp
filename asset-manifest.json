@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/piskel/static/css/main.7ab2f7e8.chunk.css",
+    "main.js": "/piskel/static/js/main.0b1b425a.chunk.js",
+    "main.js.map": "/piskel/static/js/main.0b1b425a.chunk.js.map",
+    "runtime~main.js": "/piskel/static/js/runtime~main.ed800120.js",
+    "runtime~main.js.map": "/piskel/static/js/runtime~main.ed800120.js.map",
+    "static/js/2.2b1b50e5.chunk.js": "/piskel/static/js/2.2b1b50e5.chunk.js",
+    "static/js/2.2b1b50e5.chunk.js.map": "/piskel/static/js/2.2b1b50e5.chunk.js.map",
+    "index.html": "/piskel/index.html",
+    "precache-manifest.64f7d1fe0800d356786c23954d4eddcd.js": "/piskel/precache-manifest.64f7d1fe0800d356786c23954d4eddcd.js",
+    "service-worker.js": "/piskel/service-worker.js",
+    "static/css/main.7ab2f7e8.chunk.css.map": "/piskel/static/css/main.7ab2f7e8.chunk.css.map",
+    "static/media/Screen.png": "/piskel/static/media/Screen.5fb63cf9.png",
+    "static/media/mpindex.css": "/piskel/static/media/pen.b7a86a56.png"
+  }
+}
